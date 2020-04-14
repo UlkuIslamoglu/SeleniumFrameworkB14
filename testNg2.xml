@@ -1,0 +1,9 @@
+<suite name="suite" paralel="methods" tread-count="2">
+    <test name = "test">
+        <classes>
+            <class name="SeleniumTest.GoogleGetText"/>
+            <class name="SeleniumTest.Google"/>
+        </classes>
+
+    </test>
+</suite>

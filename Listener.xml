@@ -1,0 +1,15 @@
+
+<suite name="suite">
+<Listeners>
+
+<listener name="Listener"/>
+
+</Listeners>
+
+    <test name="test"/>
+    <packages>
+        <package name="oytun_mentoring"/>
+
+    </packages>
+
+</suite>

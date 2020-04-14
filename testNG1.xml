@@ -1,0 +1,13 @@
+<suite name="suite">
+    <test name = "test">
+        <groups>
+                <run>
+                    <include name="Smoke"/>
+                </run>
+            </groups>
+            <classes>
+                <class name="oytun_mentoring.Tesla"/>
+                 <class name="oytun_mentoring.cities"/>
+            </classes>
+    </test>
+</suite>

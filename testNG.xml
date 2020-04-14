@@ -1,0 +1,18 @@
+<suite name="suite">
+    <test name="test">
+        <packages>
+
+            <package name="oytun_mentoring"/>
+            <package name="pageObjectModelTest"/>
+
+
+
+
+
+        </packages>
+
+
+
+
+    </test>
+</suite>
